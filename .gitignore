@@ -1,3 +1,5 @@
 *.suo
 **/bin/**/*
 **/obj/**/*
+**/_ReSharper**
+**/_UpgradeRport_Files/*
